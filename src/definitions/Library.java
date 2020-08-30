@@ -1,9 +1,7 @@
 /*  Created by IntelliJ IDEA.
- *  User: Gyanendra Yadav (Gyanendra011Yadav-coder)
- *  Date: 29/08/20
- *  Time: 3:50 PM
+ *  User:Harshit Sharma
  *  File Name : Library.java
- * */
+ */
 package definitions;
 
 import java.util.Arrays;
